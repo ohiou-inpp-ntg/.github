@@ -12,6 +12,7 @@ Faculty members:
 
 * NSF-funded Physics Frontier Center _Network for Neutrinos, Nuclear Astrophysics, and Symmetries_ ([N3AS](https://n3as.berkeley.edu/))
 * _Bayesian Uncertainty Quantification: Errors in Your EFT_ ([BUQEYE](https://buqeye.github.io/)) collaboration,
-* NSF-funded _Bayesian Analysis of Nuclear Dynamics_ ([BAND](https://bandframework.github.io/)) Framework, and
-* DOE-funded _SmarT Reduction and Emulation Applying Machine Learning In Nuclear Environment_ (STREAMLINE) collaboration.
+* NSF-funded _Bayesian Analysis of Nuclear Dynamics_ ([BAND](https://bandframework.github.io/)) Framework, 
+* DOE-funded _SmarT Reduction and Emulation Applying Machine Learning In Nuclear Environment_ (STREAMLINE) collaboration,
+* NSF-funded _Advancing Theory for Nuclear Double-Beta Decay_ [@NDB](https://tarheels.live/atndb/) Theoretical Physics Hub, and
 * DOE-funded [FRIB-TA Theory Alliance](https://fribtheoryalliance.org/index.php)
